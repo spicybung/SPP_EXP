@@ -25,12 +25,12 @@
 ## 🙏 Special Thanks
 
 Особая благодарность следующим людям и ресурсам за помощь в R&D, тестирование и советы, без которых этот проект был бы невозможен:
-* **Dageron**, **aap / TheHero**, **Majestic**, **spicybung** — за помощь в реверс-инжиниринге форматов Stories.
+* **Dageron**, [@aap / TheHero](https://github.com/aap)., **Majestic**, [@spicybung](https://github.com/spicybung). — за помощь в реверс-инжиниринге форматов Stories.
 * **gtamodding.ru форуму**, **gtaforums.com форуму** — за активное участие в разборах форматов.
 * **gtamods.com**, **gtamodding.ru wiki** — за энциклопедирование и документацию форматов.
 * **Старую команду SP-P Team:** Александр Тигишвили, Василий Ясенев, Егор Наимушин, Евгений Курьянов, Алексей Исааков, Vector Prospector-Uss, Стас Печенских, Назар Вичавский, Арман Турар - за поддержку и начальный вклад, в том числе тесты. Secret Porting - Project (SP-P).
 * **Подписчиков Бусти и ВК за финансовую поддержку**, включая, но не ограничиваясь: **Lyubomir Antonov**, Test SPB, Яр Секрет, Chtecvlad, Вова Милевский и другие.
-* **Команду Альянса СНГ разработчиков PSP** - @st1x51, @ValeraKirpich (androidandpsphl), infernumcat, включая, но не ограничиваясь - PSP R&D.
+* **Команду Альянса СНГ разработчиков PSP** - [@st1x51](https://github.com/st1x51), [@ValeraKirpich](https://github.com/ValeraKirpich), [@infernumcat](https://github.com/infernumcat)., включая, но не ограничиваясь - PSP R&D.
 * И других людей, прямо или не очень, помогавших проекту.
 
 ## License
